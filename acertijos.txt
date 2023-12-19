@@ -1,0 +1,18 @@
+Siempre se mueve pero nunca camina, tiene una boca pero nunca habla. ¿Qué es?:rio
+Soy redonda como un reloj, pero no marco las horas. ¿Qué soy?:moneda
+Soy un animal que lleva su casa a cuestas. ¿Quién soy?:tortuga
+Cuando más me quitas, más grande me vuelvo. ¿Qué soy?:agujero
+Tengo ciudades, pero no casas. Tengo bosques, pero no árboles. Tengo ríos, pero no agua. ¿Qué soy?:mapa
+Puedo volar sin alas. No tengo ojos, pero puedo ver. ¿Qué soy?:viento
+Tengo llaves pero no abro puertas. ¿Qué soy?:piano
+Siempre estoy delante de ti, pero nunca puedes verme. ¿Qué soy?:futuro
+Tengo hojas, pero no soy un árbol. Tengo una cara, pero no soy una persona. ¿Qué soy?:libro
+Soy blanco, frío y seco, pero nunca verás que me derrita. ¿Qué soy?:cubo de hielo
+Si me nombras, dejas de tenerme. ¿Qué soy?:silencio
+Puedes sostenerme en la mano, pero soy imposible de sostener durante mucho tiempo. ¿Qué soy?:agua
+Tengo teclas, pero no abro puertas. ¿Qué soy?:computador
+Tengo un corazón que no late. ¿Qué soy?:alcachofa
+Cuanto más seca, más agua absorbo. ¿Qué soy?:toalla
+Tengo un ojo pero no puedo ver. ¿Qué soy?:aguja
+Tengo un cuello pero no puedo girar la cabeza. ¿Qué soy?:botella
+A menudo soy blanco, pero a veces soy negro. Siempre estoy en movimiento, pero nunca me desplazo. ¿Qué soy?:peon de ajedrez

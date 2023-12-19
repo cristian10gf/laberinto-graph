@@ -1,0 +1,38 @@
+Arboleda Encantada de Eldrion::En el Bosque Encantado de Eldrion, hay un arbol que siempre crece, pero nunca tiene hojas ni ramas. ¿Que es?::sombra
+Lago de los Susurros::Que criatura del bosque duerme de dia, canta de noche y brilla en la oscuridad?::luciernaga
+Glade de las Luciernagas Brillantes::En el Lago de los Susurros, puedes encontrar un pez que nunca sale del agua ni moja su piel. ¿Que pez es?::pez burbuja
+Pico de la Luna Plateada::¿Cual es el lugar mas alto en el Pico de la Luna Plateada?::pico
+El Camino de las Hadas::En el Camino de las Hadas, hay tres hadas que siempre dicen la verdad, tres que siempre mienten y tres que a veces dicen la verdad y a veces mienten. ¿Cuantas hadas hay en total?::nueve
+Arboleda de los Arboles Durmientes::¿Que cosa nunca se detiene en la Arboleda de los Arboles Durmientes?::tiempo
+Rio de las Piedras Cantoras::¿Que ser en el Valle de los Elfos Silenciosos es diminuto como una hoja, pero puede mover grandes montes?::voluntad
+Gruta de las Estalactitas Centelleantes::¿Que criatura del bosque puede hablar todos los idiomas, pero no puede pronunciar una sola palabra?::eco
+Colina de las Mariposas Gigantes::¿Que criatura se encuentra en el Rio de las Piedras Cantoras y nunca puede avanzar, solo retroceder?::cangrejo
+Valle de los Elfos Silenciosos::En la Gruta de las Estalactitas Centelleantes, hay algo que cae pero nunca toca el suelo. ¿Que es?::noche
+Cueva de las Piedras Preciosas::Puedo volar sin alas, correr sin piernas y tengo una boca, pero no hablo. ¿Que soy?::rio
+zona de las Sombras Eternas::Tengo ciudades, pero no casas. Tengo bosques, pero no arboles. Tengo rios, pero no agua. ¿Que soy?::mapa
+Cataratas del Dragon Esmeralda::Si me nombras, dejas de tenerme. ¿Que soy?::silencio
+Prado de las Mariposas de Cristal::Puedes sostenerme en la mano, pero soy imposible de sostener durante mucho tiempo. ¿Que soy?::agua
+Torre de la Luna Perdida::Siempre estoy delante de ti, pero nunca puedes verme. ¿Que soy?::futuro
+Valle de las Estrellas Caidas::Cuando mas me quitas, mas grande me vuelvo. ¿Que soy?::agujero
+zona de las Arañas de Plata::Tengo hojas, pero no soy un arbol. Tengo una cara, pero no soy una persona. ¿Que soy?::libro
+Pueblo de los Duendes Risueños::Tengo un ojo pero no puedo ver. ¿Que soy?::aguja
+Lago de los Secretos Antiguos::En el bosque sin fin, tres caminos hallaras, uno lleva a la verdad, otro a la oscuridad, el tercero es incierto, ¿cual escogeras?::la verdad
+Colina de los Susurros Ancestrales::En el claro del bosque, tres puertas aparecen, una lleva a la riqueza, otra a la perdicion, la tercera es un enigma, ¿cual abriras primero?::la puerta del enigma
+Ruinas de la Ciudad de los Elfos::En el bosque de sombras, una linterna encontraras, con ella puedes avanzar, pero tambien revelaras, ¿la enciendes o sigues a ciegas?::enciendo la linterna
+Estanque de las Ninfas Cantarinas::En un claro oscuro, dos senderos divergen, uno es largo y arduo, el otro corto y sencillo, ¿cual eliges, la facilidad o la perseverancia?::la perseverancia
+Arboleda de las Mariposas de Cristal::En el bosque de los susurros, las hojas hablan al viento, te dan consejos contradictorios, ¿cual sigues, el primer consejo o el ultimo?::el ultimo consejo
+Puente de las Almas Perdidas::En el bosque embrujado, una voz te llama, te promete conocimiento, pero a cambio de tu voz, ¿aceptas el trato o sigues tu camino en silencio?::sigo mi camino en silencio
+zona nueva::El bosque se oscurece. ¿Enciendes una linterna?::siii enciendo la linterna
+zona nueva::Encuentras una llave dorada. ¿La guardas o la dejas?::guardo la llave
+zona nueva::Descubres una cueva en el camino. ¿Entras o sigues adelante en el sendero?::no entro a la cueva, sigo en el sendero
+zona nueva::En un claro oculto, hay tres piedras. ¿Cual tocas primero?::la del centro
+zona nueva::vivo siempre en pie, con los brazos hacia afuera, me visto en primavera y estoy desnudo en invierno. ¿Quien soy?::arbol
+zona nueva::Soy la reina de la noche en el bosque, con plumas suaves y ojos que todo lo ven. ¿Que soy?::un buho
+zona nueva::Te encuentras en un cruce en el bosque. A tu izquierda ves una senda cubierta de hojas crujientes, a tu derecha hay un puente viejo y rustico, y frente a ti un tunel oscuro (la respuesta es lo que quieres saber). ¿Que camino eliges para avanzar?::el mas seguro
+zona nueva::Estas tan cansado que empiezas a alucinar, ves cosas que no estan y te preguntas cosas sin sentido. ¿Como se denomina a un perro con fiebre?::perro caliente
+zona nueva::Son doce señoras con medias, pero sin zapatos. ¿De quienes se trata?::las horas del reloj
+zona nueva::Puedes pararlo con una mano y pagarlo con la otra::el taxi
+zona nueva::En un coche viajan dos personas. Una es menor e hija de la mayor, pero esta no se trata de su padre. ¿Entonces quien es?::la madre mama
+zona nueva:: ¿Que da ordenes y las recibe, autoriza algunas y prohibe otras?::el cerebro
+zona nueva:: ¿Que se encuentra entre playa y mar?::la letra yyy
+zona nueva::Posicion en la que se coloca un corredor que adelanta al segundo clasificado::en segundo lugar segunda posicion
